@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://agamgupta2015.github.io/csb-0qi8oc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/main.88e56100.chunk.js",
+    "main.js.map": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/main.88e56100.chunk.js.map",
+    "runtime-main.js": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/runtime-main.81d6d376.js",
+    "runtime-main.js.map": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/runtime-main.81d6d376.js.map",
+    "static/js/2.d3b20c27.chunk.js": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/2.d3b20c27.chunk.js",
+    "static/js/2.d3b20c27.chunk.js.map": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/2.d3b20c27.chunk.js.map",
+    "index.html": "https://agamgupta2015.github.io/csb-0qi8oc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://agamgupta2015.github.io/csb-0qi8oc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d3b20c27.chunk.js.LICENSE.txt": "https://agamgupta2015.github.io/csb-0qi8oc/static/js/2.d3b20c27.chunk.js.LICENSE.txt",
+    "static/media/chip.f88a902d.png": "https://agamgupta2015.github.io/csb-0qi8oc/static/media/chip.f88a902d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d6d376.js",
+    "static/js/2.d3b20c27.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.88e56100.chunk.js"
+  ]
+}
